@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T06:01:39.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gcUaKjbBFUYEX045eO6u" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-18T14:30:17.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="NuhwiA_tEFdZAlLYRUG2" version="13.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -28,7 +28,7 @@
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-10" value="1-1. 코로나 19 : 대면거래 회피" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="250" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-11" value="2-1. 근거리 택배 이용 부담" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-11" value="2-1. 근거리 택배 이용 &lt;br&gt;비용 부담" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="250" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-12" value="3-1. 서비스 내용" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -73,7 +73,7 @@
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-16" value="1-2. 바쁜 현대인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="480" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-18" value="2-2. 거래 포기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-18" value="2-2. 택배 거래&amp;nbsp;&lt;br&gt;사기문제" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="370" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-20" value="2-3. 시간약속 어려움&lt;br&gt;(거래파기)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

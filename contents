@@ -1,16 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T05:44:13.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="W5P29FJTFRquRft4Px_h" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-18T05:47:11.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="myiQjiyf-ThfJ1404LNI" version="13.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-37" value="" style="endArrow=classic;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.16999999999996" y="320" as="sourcePoint" />
+            <mxPoint x="139.16999999999996" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-0" value="1. 추진 배경 및 기획 의도" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="140" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-2" value="2. 현황 파악 및 문제점 분석" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="140" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-7" value="3. 신규 서비스 소개" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-7" value="3. 세부 실행계획" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="140" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-8" value="4. 타겟팅 설정 및 이유" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -72,6 +78,9 @@
         </mxCell>
         <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-36" value="HOW" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5Gi6Tt25N-0Ea2zdB2g-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
